@@ -22,9 +22,3 @@ Przyklad:
 java L3z3 2 1 stat 
 
 w tym przypadku n i v nie maja wiekszego znaczenia bo i tak zostaja zmienione w kazym przejsciu petli.
-
-
-ODPOWIEDZ
-
-master theorem testowalem zgodnie ze wzorem z wykladu i sprawdza sie on dla danych pozyskanych z programu.
-Wedlug mojego oszacowania O(1) wynosi ok. 1,63.
