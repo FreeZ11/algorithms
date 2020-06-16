@@ -11,6 +11,3 @@ java L3z1 p
 3
 
 nowe linie to enter.
-
-
-Odpowiedzi na pytania zostana wyslane mailem w pliku pdf.
